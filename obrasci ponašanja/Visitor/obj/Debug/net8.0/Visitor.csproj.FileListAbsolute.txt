@@ -1,0 +1,14 @@
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci ponašanja\Visitor\bin\Debug\net8.0\Visitor.exe
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci ponašanja\Visitor\bin\Debug\net8.0\Visitor.deps.json
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci ponašanja\Visitor\bin\Debug\net8.0\Visitor.runtimeconfig.json
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci ponašanja\Visitor\bin\Debug\net8.0\Visitor.dll
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci ponašanja\Visitor\bin\Debug\net8.0\Visitor.pdb
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci ponašanja\Visitor\obj\Debug\net8.0\Visitor.GeneratedMSBuildEditorConfig.editorconfig
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci ponašanja\Visitor\obj\Debug\net8.0\Visitor.AssemblyInfoInputs.cache
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci ponašanja\Visitor\obj\Debug\net8.0\Visitor.AssemblyInfo.cs
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci ponašanja\Visitor\obj\Debug\net8.0\Visitor.csproj.CoreCompileInputs.cache
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci ponašanja\Visitor\obj\Debug\net8.0\Visitor.dll
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci ponašanja\Visitor\obj\Debug\net8.0\refint\Visitor.dll
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci ponašanja\Visitor\obj\Debug\net8.0\Visitor.pdb
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci ponašanja\Visitor\obj\Debug\net8.0\Visitor.genruntimeconfig.cache
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci ponašanja\Visitor\obj\Debug\net8.0\ref\Visitor.dll

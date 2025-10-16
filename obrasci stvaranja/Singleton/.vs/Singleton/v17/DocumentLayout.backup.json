@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci stvaranja\\Singleton\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{452AEC24-9A62-4E18-A09F-F94E3561A67D}|Singleton.csproj|d:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\rppoon\\obrasci\\obrasci stvaranja\\singleton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452AEC24-9A62-4E18-A09F-F94E3561A67D}|Singleton.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452AEC24-9A62-4E18-A09F-F94E3561A67D}|Singleton.csproj|d:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\rppoon\\obrasci\\obrasci stvaranja\\singleton\\databasehelper\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452AEC24-9A62-4E18-A09F-F94E3561A67D}|Singleton.csproj|solutionrelative:databasehelper\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452AEC24-9A62-4E18-A09F-F94E3561A67D}|Singleton.csproj|d:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\rppoon\\obrasci\\obrasci stvaranja\\singleton\\randomgenerator\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452AEC24-9A62-4E18-A09F-F94E3561A67D}|Singleton.csproj|solutionrelative:randomgenerator\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452AEC24-9A62-4E18-A09F-F94E3561A67D}|Singleton.csproj|d:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\rppoon\\obrasci\\obrasci stvaranja\\singleton\\randomgenerator\\randomgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452AEC24-9A62-4E18-A09F-F94E3561A67D}|Singleton.csproj|solutionrelative:randomgenerator\\randomgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452AEC24-9A62-4E18-A09F-F94E3561A67D}|Singleton.csproj|d:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\rppoon\\obrasci\\obrasci stvaranja\\singleton\\randomgenerator\\matrixgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452AEC24-9A62-4E18-A09F-F94E3561A67D}|Singleton.csproj|solutionrelative:randomgenerator\\matrixgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci stvaranja\\Singleton\\DatabaseHelper\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "DatabaseHelper\\DatabaseHelper.cs",
+              "ToolTip": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci stvaranja\\Singleton\\DatabaseHelper\\DatabaseHelper.cs",
+              "RelativeToolTip": "DatabaseHelper\\DatabaseHelper.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvxQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T21:55:05.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci stvaranja\\Singleton\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci stvaranja\\Singleton\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T21:52:29.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci stvaranja\\Singleton\\RandomGenerator\\Logger.cs",
+              "RelativeDocumentMoniker": "RandomGenerator\\Logger.cs",
+              "ToolTip": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci stvaranja\\Singleton\\RandomGenerator\\Logger.cs",
+              "RelativeToolTip": "RandomGenerator\\Logger.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T21:40:59.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MatrixGenerator.cs",
+              "DocumentMoniker": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci stvaranja\\Singleton\\RandomGenerator\\MatrixGenerator.cs",
+              "RelativeDocumentMoniker": "RandomGenerator\\MatrixGenerator.cs",
+              "ToolTip": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci stvaranja\\Singleton\\RandomGenerator\\MatrixGenerator.cs",
+              "RelativeToolTip": "RandomGenerator\\MatrixGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T21:32:43.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RandomGenerator.cs",
+              "DocumentMoniker": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci stvaranja\\Singleton\\RandomGenerator\\RandomGenerator.cs",
+              "RelativeDocumentMoniker": "RandomGenerator\\RandomGenerator.cs",
+              "ToolTip": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci stvaranja\\Singleton\\RandomGenerator\\RandomGenerator.cs",
+              "RelativeToolTip": "RandomGenerator\\RandomGenerator.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T21:26:37.526Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

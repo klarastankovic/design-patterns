@@ -1,0 +1,14 @@
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci ponašanja\Strategy\bin\Debug\net8.0\Strategy.exe
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci ponašanja\Strategy\bin\Debug\net8.0\Strategy.deps.json
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci ponašanja\Strategy\bin\Debug\net8.0\Strategy.runtimeconfig.json
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci ponašanja\Strategy\bin\Debug\net8.0\Strategy.dll
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci ponašanja\Strategy\bin\Debug\net8.0\Strategy.pdb
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci ponašanja\Strategy\obj\Debug\net8.0\Strategy.GeneratedMSBuildEditorConfig.editorconfig
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci ponašanja\Strategy\obj\Debug\net8.0\Strategy.AssemblyInfoInputs.cache
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci ponašanja\Strategy\obj\Debug\net8.0\Strategy.AssemblyInfo.cs
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci ponašanja\Strategy\obj\Debug\net8.0\Strategy.csproj.CoreCompileInputs.cache
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci ponašanja\Strategy\obj\Debug\net8.0\Strategy.dll
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci ponašanja\Strategy\obj\Debug\net8.0\refint\Strategy.dll
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci ponašanja\Strategy\obj\Debug\net8.0\Strategy.pdb
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci ponašanja\Strategy\obj\Debug\net8.0\Strategy.genruntimeconfig.cache
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci ponašanja\Strategy\obj\Debug\net8.0\ref\Strategy.dll

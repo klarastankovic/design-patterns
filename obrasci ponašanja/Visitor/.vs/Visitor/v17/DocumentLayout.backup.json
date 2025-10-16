@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci pona\u0161anja\\Visitor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3AED7AF-F920-4DF1-9C9A-3EB5C0CD1DA5}|Visitor.csproj|d:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\rppoon\\obrasci\\obrasci pona\u0161anja\\visitor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3AED7AF-F920-4DF1-9C9A-3EB5C0CD1DA5}|Visitor.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3AED7AF-F920-4DF1-9C9A-3EB5C0CD1DA5}|Visitor.csproj|d:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\rppoon\\obrasci\\obrasci pona\u0161anja\\visitor\\number\\numbertester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3AED7AF-F920-4DF1-9C9A-3EB5C0CD1DA5}|Visitor.csproj|solutionrelative:number\\numbertester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3AED7AF-F920-4DF1-9C9A-3EB5C0CD1DA5}|Visitor.csproj|d:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\rppoon\\obrasci\\obrasci pona\u0161anja\\visitor\\number\\sumvisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3AED7AF-F920-4DF1-9C9A-3EB5C0CD1DA5}|Visitor.csproj|solutionrelative:number\\sumvisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3AED7AF-F920-4DF1-9C9A-3EB5C0CD1DA5}|Visitor.csproj|d:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\rppoon\\obrasci\\obrasci pona\u0161anja\\visitor\\number\\pair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3AED7AF-F920-4DF1-9C9A-3EB5C0CD1DA5}|Visitor.csproj|solutionrelative:number\\pair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3AED7AF-F920-4DF1-9C9A-3EB5C0CD1DA5}|Visitor.csproj|d:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\rppoon\\obrasci\\obrasci pona\u0161anja\\visitor\\number\\single.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3AED7AF-F920-4DF1-9C9A-3EB5C0CD1DA5}|Visitor.csproj|solutionrelative:number\\single.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3AED7AF-F920-4DF1-9C9A-3EB5C0CD1DA5}|Visitor.csproj|d:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\rppoon\\obrasci\\obrasci pona\u0161anja\\visitor\\number\\inumericalvisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3AED7AF-F920-4DF1-9C9A-3EB5C0CD1DA5}|Visitor.csproj|solutionrelative:number\\inumericalvisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3AED7AF-F920-4DF1-9C9A-3EB5C0CD1DA5}|Visitor.csproj|d:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\rppoon\\obrasci\\obrasci pona\u0161anja\\visitor\\number\\inumerical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3AED7AF-F920-4DF1-9C9A-3EB5C0CD1DA5}|Visitor.csproj|solutionrelative:number\\inumerical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci pona\u0161anja\\Visitor\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci pona\u0161anja\\Visitor\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T13:26:21.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NumberTester.cs",
+              "DocumentMoniker": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci pona\u0161anja\\Visitor\\Number\\NumberTester.cs",
+              "RelativeDocumentMoniker": "Number\\NumberTester.cs",
+              "ToolTip": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci pona\u0161anja\\Visitor\\Number\\NumberTester.cs",
+              "RelativeToolTip": "Number\\NumberTester.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T13:23:12.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SumVisitor.cs",
+              "DocumentMoniker": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci pona\u0161anja\\Visitor\\Number\\SumVisitor.cs",
+              "RelativeDocumentMoniker": "Number\\SumVisitor.cs",
+              "ToolTip": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci pona\u0161anja\\Visitor\\Number\\SumVisitor.cs",
+              "RelativeToolTip": "Number\\SumVisitor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T13:21:18.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pair.cs",
+              "DocumentMoniker": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci pona\u0161anja\\Visitor\\Number\\Pair.cs",
+              "RelativeDocumentMoniker": "Number\\Pair.cs",
+              "ToolTip": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci pona\u0161anja\\Visitor\\Number\\Pair.cs",
+              "RelativeToolTip": "Number\\Pair.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T13:19:53.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Single.cs",
+              "DocumentMoniker": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci pona\u0161anja\\Visitor\\Number\\Single.cs",
+              "RelativeDocumentMoniker": "Number\\Single.cs",
+              "ToolTip": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci pona\u0161anja\\Visitor\\Number\\Single.cs",
+              "RelativeToolTip": "Number\\Single.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T13:18:47.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "INumericalVisitor.cs",
+              "DocumentMoniker": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci pona\u0161anja\\Visitor\\Number\\INumericalVisitor.cs",
+              "RelativeDocumentMoniker": "Number\\INumericalVisitor.cs",
+              "ToolTip": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci pona\u0161anja\\Visitor\\Number\\INumericalVisitor.cs",
+              "RelativeToolTip": "Number\\INumericalVisitor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T13:18:03.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "INumerical.cs",
+              "DocumentMoniker": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci pona\u0161anja\\Visitor\\Number\\INumerical.cs",
+              "RelativeDocumentMoniker": "Number\\INumerical.cs",
+              "ToolTip": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci pona\u0161anja\\Visitor\\Number\\INumerical.cs",
+              "RelativeToolTip": "Number\\INumerical.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T13:17:26.693Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

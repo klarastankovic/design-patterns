@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci stvaranja\\Builder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F4192D4-9613-4BAD-A8E6-401CF4442BC6}|Builder.csproj|d:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\rppoon\\obrasci\\obrasci stvaranja\\builder\\notification\\notificationtester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F4192D4-9613-4BAD-A8E6-401CF4442BC6}|Builder.csproj|solutionrelative:notification\\notificationtester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F4192D4-9613-4BAD-A8E6-401CF4442BC6}|Builder.csproj|d:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\rppoon\\obrasci\\obrasci stvaranja\\builder\\notification\\consolenotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F4192D4-9613-4BAD-A8E6-401CF4442BC6}|Builder.csproj|solutionrelative:notification\\consolenotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F4192D4-9613-4BAD-A8E6-401CF4442BC6}|Builder.csproj|d:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\rppoon\\obrasci\\obrasci stvaranja\\builder\\notification\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F4192D4-9613-4BAD-A8E6-401CF4442BC6}|Builder.csproj|solutionrelative:notification\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F4192D4-9613-4BAD-A8E6-401CF4442BC6}|Builder.csproj|d:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\rppoon\\obrasci\\obrasci stvaranja\\builder\\notification\\notificationbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F4192D4-9613-4BAD-A8E6-401CF4442BC6}|Builder.csproj|solutionrelative:notification\\notificationbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F4192D4-9613-4BAD-A8E6-401CF4442BC6}|Builder.csproj|d:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\rppoon\\obrasci\\obrasci stvaranja\\builder\\notification\\notificationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F4192D4-9613-4BAD-A8E6-401CF4442BC6}|Builder.csproj|solutionrelative:notification\\notificationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F4192D4-9613-4BAD-A8E6-401CF4442BC6}|Builder.csproj|d:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\rppoon\\obrasci\\obrasci stvaranja\\builder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F4192D4-9613-4BAD-A8E6-401CF4442BC6}|Builder.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F4192D4-9613-4BAD-A8E6-401CF4442BC6}|Builder.csproj|d:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\rppoon\\obrasci\\obrasci stvaranja\\builder\\notification\\ibuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F4192D4-9613-4BAD-A8E6-401CF4442BC6}|Builder.csproj|solutionrelative:notification\\ibuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Director.cs",
+              "DocumentMoniker": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci stvaranja\\Builder\\Notification\\Director.cs",
+              "RelativeDocumentMoniker": "Notification\\Director.cs",
+              "ToolTip": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci stvaranja\\Builder\\Notification\\Director.cs",
+              "RelativeToolTip": "Notification\\Director.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T00:20:53.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NotificationBuilder.cs",
+              "DocumentMoniker": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci stvaranja\\Builder\\Notification\\NotificationBuilder.cs",
+              "RelativeDocumentMoniker": "Notification\\NotificationBuilder.cs",
+              "ToolTip": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci stvaranja\\Builder\\Notification\\NotificationBuilder.cs",
+              "RelativeToolTip": "Notification\\NotificationBuilder.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwDAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T00:09:24.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IBuilder.cs",
+              "DocumentMoniker": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci stvaranja\\Builder\\Notification\\IBuilder.cs",
+              "RelativeDocumentMoniker": "Notification\\IBuilder.cs",
+              "ToolTip": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci stvaranja\\Builder\\Notification\\IBuilder.cs",
+              "RelativeToolTip": "Notification\\IBuilder.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T00:07:06.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci stvaranja\\Builder\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci stvaranja\\Builder\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T23:59:21.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NotificationTester.cs",
+              "DocumentMoniker": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci stvaranja\\Builder\\Notification\\NotificationTester.cs",
+              "RelativeDocumentMoniker": "Notification\\NotificationTester.cs",
+              "ToolTip": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci stvaranja\\Builder\\Notification\\NotificationTester.cs",
+              "RelativeToolTip": "Notification\\NotificationTester.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T23:59:41.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NotificationManager.cs",
+              "DocumentMoniker": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci stvaranja\\Builder\\Notification\\NotificationManager.cs",
+              "RelativeDocumentMoniker": "Notification\\NotificationManager.cs",
+              "ToolTip": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci stvaranja\\Builder\\Notification\\NotificationManager.cs",
+              "RelativeToolTip": "Notification\\NotificationManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T23:55:50.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConsoleNotification.cs",
+              "DocumentMoniker": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci stvaranja\\Builder\\Notification\\ConsoleNotification.cs",
+              "RelativeDocumentMoniker": "Notification\\ConsoleNotification.cs",
+              "ToolTip": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci stvaranja\\Builder\\Notification\\ConsoleNotification.cs",
+              "RelativeToolTip": "Notification\\ConsoleNotification.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAADwvyEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T23:53:07.511Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

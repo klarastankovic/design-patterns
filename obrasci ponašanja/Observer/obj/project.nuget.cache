@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vd8kMdWHcvk=",
+  "success": true,
+  "projectFilePath": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci ponašanja\\Observer\\Observer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\klara\\.nuget\\packages\\system.configuration.configurationmanager\\9.0.8\\system.configuration.configurationmanager.9.0.8.nupkg.sha512",
+    "C:\\Users\\klara\\.nuget\\packages\\system.diagnostics.eventlog\\9.0.8\\system.diagnostics.eventlog.9.0.8.nupkg.sha512",
+    "C:\\Users\\klara\\.nuget\\packages\\system.diagnostics.performancecounter\\9.0.8\\system.diagnostics.performancecounter.9.0.8.nupkg.sha512",
+    "C:\\Users\\klara\\.nuget\\packages\\system.security.cryptography.protecteddata\\9.0.8\\system.security.cryptography.protecteddata.9.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci stvaranja\AbstractFactory\bin\Debug\net8.0\AbstractFactory.exe
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci stvaranja\AbstractFactory\bin\Debug\net8.0\AbstractFactory.deps.json
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci stvaranja\AbstractFactory\bin\Debug\net8.0\AbstractFactory.runtimeconfig.json
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci stvaranja\AbstractFactory\bin\Debug\net8.0\AbstractFactory.dll
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci stvaranja\AbstractFactory\bin\Debug\net8.0\AbstractFactory.pdb
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci stvaranja\AbstractFactory\obj\Debug\net8.0\AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci stvaranja\AbstractFactory\obj\Debug\net8.0\AbstractFactory.AssemblyInfoInputs.cache
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci stvaranja\AbstractFactory\obj\Debug\net8.0\AbstractFactory.AssemblyInfo.cs
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci stvaranja\AbstractFactory\obj\Debug\net8.0\AbstractFactory.csproj.CoreCompileInputs.cache
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci stvaranja\AbstractFactory\obj\Debug\net8.0\AbstractFactory.dll
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci stvaranja\AbstractFactory\obj\Debug\net8.0\refint\AbstractFactory.dll
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci stvaranja\AbstractFactory\obj\Debug\net8.0\AbstractFactory.pdb
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci stvaranja\AbstractFactory\obj\Debug\net8.0\AbstractFactory.genruntimeconfig.cache
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci stvaranja\AbstractFactory\obj\Debug\net8.0\ref\AbstractFactory.dll

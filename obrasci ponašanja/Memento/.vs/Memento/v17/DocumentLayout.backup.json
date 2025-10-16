@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci pona\u0161anja\\Memento\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4FD79BB-9CCF-4785-A9E1-3AC3E87086D1}|Memento.csproj|d:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\rppoon\\obrasci\\obrasci pona\u0161anja\\memento\\todo\\todotester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4FD79BB-9CCF-4785-A9E1-3AC3E87086D1}|Memento.csproj|solutionrelative:todo\\todotester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4FD79BB-9CCF-4785-A9E1-3AC3E87086D1}|Memento.csproj|d:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\rppoon\\obrasci\\obrasci pona\u0161anja\\memento\\todo\\caretaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4FD79BB-9CCF-4785-A9E1-3AC3E87086D1}|Memento.csproj|solutionrelative:todo\\caretaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4FD79BB-9CCF-4785-A9E1-3AC3E87086D1}|Memento.csproj|d:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\rppoon\\obrasci\\obrasci pona\u0161anja\\memento\\todo\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4FD79BB-9CCF-4785-A9E1-3AC3E87086D1}|Memento.csproj|solutionrelative:todo\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4FD79BB-9CCF-4785-A9E1-3AC3E87086D1}|Memento.csproj|d:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\rppoon\\obrasci\\obrasci pona\u0161anja\\memento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4FD79BB-9CCF-4785-A9E1-3AC3E87086D1}|Memento.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4FD79BB-9CCF-4785-A9E1-3AC3E87086D1}|Memento.csproj|d:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\rppoon\\obrasci\\obrasci pona\u0161anja\\memento\\todo\\memento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4FD79BB-9CCF-4785-A9E1-3AC3E87086D1}|Memento.csproj|solutionrelative:todo\\memento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ToDoTester.cs",
+              "DocumentMoniker": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci pona\u0161anja\\Memento\\ToDo\\ToDoTester.cs",
+              "RelativeDocumentMoniker": "ToDo\\ToDoTester.cs",
+              "ToolTip": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci pona\u0161anja\\Memento\\ToDo\\ToDoTester.cs",
+              "RelativeToolTip": "ToDo\\ToDoTester.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T23:10:20.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CareTaker.cs",
+              "DocumentMoniker": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci pona\u0161anja\\Memento\\ToDo\\CareTaker.cs",
+              "RelativeDocumentMoniker": "ToDo\\CareTaker.cs",
+              "ToolTip": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci pona\u0161anja\\Memento\\ToDo\\CareTaker.cs",
+              "RelativeToolTip": "ToDo\\CareTaker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T23:06:08.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Memento.cs",
+              "DocumentMoniker": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci pona\u0161anja\\Memento\\ToDo\\Memento.cs",
+              "RelativeDocumentMoniker": "ToDo\\Memento.cs",
+              "ToolTip": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci pona\u0161anja\\Memento\\ToDo\\Memento.cs",
+              "RelativeToolTip": "ToDo\\Memento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T23:04:59.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ToDoItem.cs",
+              "DocumentMoniker": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci pona\u0161anja\\Memento\\ToDo\\ToDoItem.cs",
+              "RelativeDocumentMoniker": "ToDo\\ToDoItem.cs",
+              "ToolTip": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci pona\u0161anja\\Memento\\ToDo\\ToDoItem.cs",
+              "RelativeToolTip": "ToDo\\ToDoItem.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAkwCUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T22:59:52.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci pona\u0161anja\\Memento\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci pona\u0161anja\\Memento\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T22:59:33.485Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

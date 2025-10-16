@@ -1,0 +1,24 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Observer.DataProvider
+{
+    public class FileLogger : Logger //konkretan observer
+    {
+        private string filePath;
+        public FileLogger(string filePath)
+        {
+            this.filePath = filePath;
+        }
+        public void Log(SimpleSystemDataProvider provider)
+        {
+            System.IO.StreamWriter writer = new System.IO.StreamWriter(filePath, true);
+            writer.WriteLine(DateTime.Now + "-> CPU load: "+
+                provider.CPULoad + " Available RAM: " + provider.AvailableRAM);
+            writer.Close();
+        }
+    }
+}

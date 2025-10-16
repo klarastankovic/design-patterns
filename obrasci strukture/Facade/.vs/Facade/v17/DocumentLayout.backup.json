@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci strukture\\Facade\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{539DFDD6-3EF1-4698-BF31-4176572E13A1}|Facade.csproj|d:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\rppoon\\obrasci\\obrasci strukture\\facade\\validator\\validatortester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{539DFDD6-3EF1-4698-BF31-4176572E13A1}|Facade.csproj|solutionrelative:validator\\validatortester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{539DFDD6-3EF1-4698-BF31-4176572E13A1}|Facade.csproj|d:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\rppoon\\obrasci\\obrasci strukture\\facade\\validator\\userentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{539DFDD6-3EF1-4698-BF31-4176572E13A1}|Facade.csproj|solutionrelative:validator\\userentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{539DFDD6-3EF1-4698-BF31-4176572E13A1}|Facade.csproj|d:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\rppoon\\obrasci\\obrasci strukture\\facade\\validator\\iregistrationvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{539DFDD6-3EF1-4698-BF31-4176572E13A1}|Facade.csproj|solutionrelative:validator\\iregistrationvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{539DFDD6-3EF1-4698-BF31-4176572E13A1}|Facade.csproj|d:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\rppoon\\obrasci\\obrasci strukture\\facade\\validator\\registrationvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{539DFDD6-3EF1-4698-BF31-4176572E13A1}|Facade.csproj|solutionrelative:validator\\registrationvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{539DFDD6-3EF1-4698-BF31-4176572E13A1}|Facade.csproj|d:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\rppoon\\obrasci\\obrasci strukture\\facade\\validator\\emailvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{539DFDD6-3EF1-4698-BF31-4176572E13A1}|Facade.csproj|solutionrelative:validator\\emailvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{539DFDD6-3EF1-4698-BF31-4176572E13A1}|Facade.csproj|d:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\rppoon\\obrasci\\obrasci strukture\\facade\\validator\\iemailvalidatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{539DFDD6-3EF1-4698-BF31-4176572E13A1}|Facade.csproj|solutionrelative:validator\\iemailvalidatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{539DFDD6-3EF1-4698-BF31-4176572E13A1}|Facade.csproj|d:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\rppoon\\obrasci\\obrasci strukture\\facade\\validator\\passwordvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{539DFDD6-3EF1-4698-BF31-4176572E13A1}|Facade.csproj|solutionrelative:validator\\passwordvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{539DFDD6-3EF1-4698-BF31-4176572E13A1}|Facade.csproj|d:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\rppoon\\obrasci\\obrasci strukture\\facade\\validator\\ipasswordvalidatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{539DFDD6-3EF1-4698-BF31-4176572E13A1}|Facade.csproj|solutionrelative:validator\\ipasswordvalidatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{539DFDD6-3EF1-4698-BF31-4176572E13A1}|Facade.csproj|d:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\rppoon\\obrasci\\obrasci strukture\\facade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{539DFDD6-3EF1-4698-BF31-4176572E13A1}|Facade.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserEntry.cs",
+              "DocumentMoniker": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci strukture\\Facade\\Validator\\UserEntry.cs",
+              "RelativeDocumentMoniker": "Validator\\UserEntry.cs",
+              "ToolTip": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci strukture\\Facade\\Validator\\UserEntry.cs",
+              "RelativeToolTip": "Validator\\UserEntry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T10:33:20.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegistrationValidator.cs",
+              "DocumentMoniker": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci strukture\\Facade\\Validator\\RegistrationValidator.cs",
+              "RelativeDocumentMoniker": "Validator\\RegistrationValidator.cs",
+              "ToolTip": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci strukture\\Facade\\Validator\\RegistrationValidator.cs",
+              "RelativeToolTip": "Validator\\RegistrationValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T10:36:54.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRegistrationValidator.cs",
+              "DocumentMoniker": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci strukture\\Facade\\Validator\\IRegistrationValidator.cs",
+              "RelativeDocumentMoniker": "Validator\\IRegistrationValidator.cs",
+              "ToolTip": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci strukture\\Facade\\Validator\\IRegistrationValidator.cs",
+              "RelativeToolTip": "Validator\\IRegistrationValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T10:36:16.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci strukture\\Facade\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci strukture\\Facade\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T10:28:23.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ValidatorTester.cs",
+              "DocumentMoniker": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci strukture\\Facade\\Validator\\ValidatorTester.cs",
+              "RelativeDocumentMoniker": "Validator\\ValidatorTester.cs",
+              "ToolTip": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci strukture\\Facade\\Validator\\ValidatorTester.cs",
+              "RelativeToolTip": "Validator\\ValidatorTester.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwB0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T10:28:03.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmailValidator.cs",
+              "DocumentMoniker": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci strukture\\Facade\\Validator\\EmailValidator.cs",
+              "RelativeDocumentMoniker": "Validator\\EmailValidator.cs",
+              "ToolTip": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci strukture\\Facade\\Validator\\EmailValidator.cs",
+              "RelativeToolTip": "Validator\\EmailValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T10:23:55.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PasswordValidator.cs",
+              "DocumentMoniker": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci strukture\\Facade\\Validator\\PasswordValidator.cs",
+              "RelativeDocumentMoniker": "Validator\\PasswordValidator.cs",
+              "ToolTip": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci strukture\\Facade\\Validator\\PasswordValidator.cs",
+              "RelativeToolTip": "Validator\\PasswordValidator.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwAkAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T10:19:19.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEmailValidatorService.cs",
+              "DocumentMoniker": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci strukture\\Facade\\Validator\\IEmailValidatorService.cs",
+              "RelativeDocumentMoniker": "Validator\\IEmailValidatorService.cs",
+              "ToolTip": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci strukture\\Facade\\Validator\\IEmailValidatorService.cs",
+              "RelativeToolTip": "Validator\\IEmailValidatorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T10:18:39.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IPasswordValidatorService.cs",
+              "DocumentMoniker": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci strukture\\Facade\\Validator\\IPasswordValidatorService.cs",
+              "RelativeDocumentMoniker": "Validator\\IPasswordValidatorService.cs",
+              "ToolTip": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci strukture\\Facade\\Validator\\IPasswordValidatorService.cs",
+              "RelativeToolTip": "Validator\\IPasswordValidatorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T10:17:48.965Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci strukture\Composite\bin\Debug\net8.0\Composite.exe
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci strukture\Composite\bin\Debug\net8.0\Composite.deps.json
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci strukture\Composite\bin\Debug\net8.0\Composite.runtimeconfig.json
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci strukture\Composite\bin\Debug\net8.0\Composite.dll
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci strukture\Composite\bin\Debug\net8.0\Composite.pdb
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci strukture\Composite\obj\Debug\net8.0\Composite.GeneratedMSBuildEditorConfig.editorconfig
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci strukture\Composite\obj\Debug\net8.0\Composite.AssemblyInfoInputs.cache
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci strukture\Composite\obj\Debug\net8.0\Composite.AssemblyInfo.cs
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci strukture\Composite\obj\Debug\net8.0\Composite.csproj.CoreCompileInputs.cache
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci strukture\Composite\obj\Debug\net8.0\Composite.dll
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci strukture\Composite\obj\Debug\net8.0\refint\Composite.dll
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci strukture\Composite\obj\Debug\net8.0\Composite.pdb
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci strukture\Composite\obj\Debug\net8.0\Composite.genruntimeconfig.cache
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci strukture\Composite\obj\Debug\net8.0\ref\Composite.dll

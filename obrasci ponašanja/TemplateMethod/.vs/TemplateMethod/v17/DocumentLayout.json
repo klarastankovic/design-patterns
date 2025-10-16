@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci pona\u0161anja\\TemplateMethod\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3569C8D-DB31-46FF-97F7-E89B64C8CB99}|TemplateMethod.csproj|d:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\rppoon\\obrasci\\obrasci pona\u0161anja\\templatemethod\\dataparser\\dataparsertester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3569C8D-DB31-46FF-97F7-E89B64C8CB99}|TemplateMethod.csproj|solutionrelative:dataparser\\dataparsertester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3569C8D-DB31-46FF-97F7-E89B64C8CB99}|TemplateMethod.csproj|d:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\rppoon\\obrasci\\obrasci pona\u0161anja\\templatemethod\\dataparser\\customdataparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3569C8D-DB31-46FF-97F7-E89B64C8CB99}|TemplateMethod.csproj|solutionrelative:dataparser\\customdataparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3569C8D-DB31-46FF-97F7-E89B64C8CB99}|TemplateMethod.csproj|d:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\rppoon\\obrasci\\obrasci pona\u0161anja\\templatemethod\\dataparser\\csvdataparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3569C8D-DB31-46FF-97F7-E89B64C8CB99}|TemplateMethod.csproj|solutionrelative:dataparser\\csvdataparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3569C8D-DB31-46FF-97F7-E89B64C8CB99}|TemplateMethod.csproj|d:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\rppoon\\obrasci\\obrasci pona\u0161anja\\templatemethod\\dataparser\\dataparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3569C8D-DB31-46FF-97F7-E89B64C8CB99}|TemplateMethod.csproj|solutionrelative:dataparser\\dataparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3569C8D-DB31-46FF-97F7-E89B64C8CB99}|TemplateMethod.csproj|d:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\rppoon\\obrasci\\obrasci pona\u0161anja\\templatemethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3569C8D-DB31-46FF-97F7-E89B64C8CB99}|TemplateMethod.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3569C8D-DB31-46FF-97F7-E89B64C8CB99}|TemplateMethod.csproj|d:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\rppoon\\obrasci\\obrasci pona\u0161anja\\templatemethod\\dataparser\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3569C8D-DB31-46FF-97F7-E89B64C8CB99}|TemplateMethod.csproj|solutionrelative:dataparser\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataParserTester.cs",
+              "DocumentMoniker": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci pona\u0161anja\\TemplateMethod\\DataParser\\DataParserTester.cs",
+              "RelativeDocumentMoniker": "DataParser\\DataParserTester.cs",
+              "ToolTip": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci pona\u0161anja\\TemplateMethod\\DataParser\\DataParserTester.cs",
+              "RelativeToolTip": "DataParser\\DataParserTester.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T23:06:41.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomDataParser.cs",
+              "DocumentMoniker": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci pona\u0161anja\\TemplateMethod\\DataParser\\CustomDataParser.cs",
+              "RelativeDocumentMoniker": "DataParser\\CustomDataParser.cs",
+              "ToolTip": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci pona\u0161anja\\TemplateMethod\\DataParser\\CustomDataParser.cs",
+              "RelativeToolTip": "DataParser\\CustomDataParser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T23:01:33.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CSVDataParser.cs",
+              "DocumentMoniker": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci pona\u0161anja\\TemplateMethod\\DataParser\\CSVDataParser.cs",
+              "RelativeDocumentMoniker": "DataParser\\CSVDataParser.cs",
+              "ToolTip": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci pona\u0161anja\\TemplateMethod\\DataParser\\CSVDataParser.cs",
+              "RelativeToolTip": "DataParser\\CSVDataParser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T22:58:48.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataParser.cs",
+              "DocumentMoniker": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci pona\u0161anja\\TemplateMethod\\DataParser\\DataParser.cs",
+              "RelativeDocumentMoniker": "DataParser\\DataParser.cs",
+              "ToolTip": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci pona\u0161anja\\TemplateMethod\\DataParser\\DataParser.cs",
+              "RelativeToolTip": "DataParser\\DataParser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T22:51:38.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci pona\u0161anja\\TemplateMethod\\DataParser\\User.cs",
+              "RelativeDocumentMoniker": "DataParser\\User.cs",
+              "ToolTip": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci pona\u0161anja\\TemplateMethod\\DataParser\\User.cs",
+              "RelativeToolTip": "DataParser\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T22:49:41.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci pona\u0161anja\\TemplateMethod\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci pona\u0161anja\\TemplateMethod\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T23:32:18.006Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

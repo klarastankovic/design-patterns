@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci strukture\\Proxy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A86C2A4-B6A0-45A7-BFA4-3627F57C3255}|Proxy.csproj|d:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\rppoon\\obrasci\\obrasci strukture\\proxy\\dataset\\datasettester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A86C2A4-B6A0-45A7-BFA4-3627F57C3255}|Proxy.csproj|solutionrelative:dataset\\datasettester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A86C2A4-B6A0-45A7-BFA4-3627F57C3255}|Proxy.csproj|d:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\rppoon\\obrasci\\obrasci strukture\\proxy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A86C2A4-B6A0-45A7-BFA4-3627F57C3255}|Proxy.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A86C2A4-B6A0-45A7-BFA4-3627F57C3255}|Proxy.csproj|d:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\rppoon\\obrasci\\obrasci strukture\\proxy\\dataset\\consolelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A86C2A4-B6A0-45A7-BFA4-3627F57C3255}|Proxy.csproj|solutionrelative:dataset\\consolelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A86C2A4-B6A0-45A7-BFA4-3627F57C3255}|Proxy.csproj|d:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\rppoon\\obrasci\\obrasci strukture\\proxy\\dataset\\loggingproxydataset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A86C2A4-B6A0-45A7-BFA4-3627F57C3255}|Proxy.csproj|solutionrelative:dataset\\loggingproxydataset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A86C2A4-B6A0-45A7-BFA4-3627F57C3255}|Proxy.csproj|d:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\rppoon\\obrasci\\obrasci strukture\\proxy\\dataset\\protectionproxydataset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A86C2A4-B6A0-45A7-BFA4-3627F57C3255}|Proxy.csproj|solutionrelative:dataset\\protectionproxydataset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A86C2A4-B6A0-45A7-BFA4-3627F57C3255}|Proxy.csproj|d:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\rppoon\\obrasci\\obrasci strukture\\proxy\\dataset\\virtualproxydataset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A86C2A4-B6A0-45A7-BFA4-3627F57C3255}|Proxy.csproj|solutionrelative:dataset\\virtualproxydataset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A86C2A4-B6A0-45A7-BFA4-3627F57C3255}|Proxy.csproj|d:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\rppoon\\obrasci\\obrasci strukture\\proxy\\dataset\\idataset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A86C2A4-B6A0-45A7-BFA4-3627F57C3255}|Proxy.csproj|solutionrelative:dataset\\idataset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A86C2A4-B6A0-45A7-BFA4-3627F57C3255}|Proxy.csproj|d:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\rppoon\\obrasci\\obrasci strukture\\proxy\\dataset\\dataconsoleprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A86C2A4-B6A0-45A7-BFA4-3627F57C3255}|Proxy.csproj|solutionrelative:dataset\\dataconsoleprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A86C2A4-B6A0-45A7-BFA4-3627F57C3255}|Proxy.csproj|d:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\rppoon\\obrasci\\obrasci strukture\\proxy\\dataset\\dataset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A86C2A4-B6A0-45A7-BFA4-3627F57C3255}|Proxy.csproj|solutionrelative:dataset\\dataset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A86C2A4-B6A0-45A7-BFA4-3627F57C3255}|Proxy.csproj|d:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\rppoon\\obrasci\\obrasci strukture\\proxy\\dataset\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A86C2A4-B6A0-45A7-BFA4-3627F57C3255}|Proxy.csproj|solutionrelative:dataset\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConsoleLogger.cs",
+              "DocumentMoniker": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci strukture\\Proxy\\Dataset\\ConsoleLogger.cs",
+              "RelativeDocumentMoniker": "Dataset\\ConsoleLogger.cs",
+              "ToolTip": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci strukture\\Proxy\\Dataset\\ConsoleLogger.cs",
+              "RelativeToolTip": "Dataset\\ConsoleLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T14:01:50.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoggingProxyDataset.cs",
+              "DocumentMoniker": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci strukture\\Proxy\\Dataset\\LoggingProxyDataset.cs",
+              "RelativeDocumentMoniker": "Dataset\\LoggingProxyDataset.cs",
+              "ToolTip": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci strukture\\Proxy\\Dataset\\LoggingProxyDataset.cs",
+              "RelativeToolTip": "Dataset\\LoggingProxyDataset.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T14:01:18.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci strukture\\Proxy\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci strukture\\Proxy\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T13:53:16.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DatasetTester.cs",
+              "DocumentMoniker": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci strukture\\Proxy\\Dataset\\DatasetTester.cs",
+              "RelativeDocumentMoniker": "Dataset\\DatasetTester.cs",
+              "ToolTip": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci strukture\\Proxy\\Dataset\\DatasetTester.cs",
+              "RelativeToolTip": "Dataset\\DatasetTester.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T13:42:28.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DataConsolePrinter.cs",
+              "DocumentMoniker": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci strukture\\Proxy\\Dataset\\DataConsolePrinter.cs",
+              "RelativeDocumentMoniker": "Dataset\\DataConsolePrinter.cs",
+              "ToolTip": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci strukture\\Proxy\\Dataset\\DataConsolePrinter.cs",
+              "RelativeToolTip": "Dataset\\DataConsolePrinter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T13:41:32.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProtectionProxyDataset.cs",
+              "DocumentMoniker": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci strukture\\Proxy\\Dataset\\ProtectionProxyDataset.cs",
+              "RelativeDocumentMoniker": "Dataset\\ProtectionProxyDataset.cs",
+              "ToolTip": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci strukture\\Proxy\\Dataset\\ProtectionProxyDataset.cs",
+              "RelativeToolTip": "Dataset\\ProtectionProxyDataset.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAcwB0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T13:34:03.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci strukture\\Proxy\\Dataset\\User.cs",
+              "RelativeDocumentMoniker": "Dataset\\User.cs",
+              "ToolTip": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci strukture\\Proxy\\Dataset\\User.cs",
+              "RelativeToolTip": "Dataset\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T13:32:33.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VirtualProxyDataset.cs",
+              "DocumentMoniker": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci strukture\\Proxy\\Dataset\\VirtualProxyDataset.cs",
+              "RelativeDocumentMoniker": "Dataset\\VirtualProxyDataset.cs",
+              "ToolTip": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci strukture\\Proxy\\Dataset\\VirtualProxyDataset.cs",
+              "RelativeToolTip": "Dataset\\VirtualProxyDataset.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T13:30:01.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dataset.cs",
+              "DocumentMoniker": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci strukture\\Proxy\\Dataset\\Dataset.cs",
+              "RelativeDocumentMoniker": "Dataset\\Dataset.cs",
+              "ToolTip": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci strukture\\Proxy\\Dataset\\Dataset.cs",
+              "RelativeToolTip": "Dataset\\Dataset.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T13:26:41.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IDataset.cs",
+              "DocumentMoniker": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci strukture\\Proxy\\Dataset\\IDataset.cs",
+              "RelativeDocumentMoniker": "Dataset\\IDataset.cs",
+              "ToolTip": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci strukture\\Proxy\\Dataset\\IDataset.cs",
+              "RelativeToolTip": "Dataset\\IDataset.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T13:25:13.725Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

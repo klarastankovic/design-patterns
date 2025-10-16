@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci strukture\\Adapter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7AA64D21-044F-4E78-B521-2F3E9FC730A0}|Adapter.csproj|d:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\rppoon\\obrasci\\obrasci strukture\\adapter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AA64D21-044F-4E78-B521-2F3E9FC730A0}|Adapter.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AA64D21-044F-4E78-B521-2F3E9FC730A0}|Adapter.csproj|d:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\rppoon\\obrasci\\obrasci strukture\\adapter\\enemy\\terrorist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AA64D21-044F-4E78-B521-2F3E9FC730A0}|Adapter.csproj|solutionrelative:enemy\\terrorist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AA64D21-044F-4E78-B521-2F3E9FC730A0}|Adapter.csproj|d:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\rppoon\\obrasci\\obrasci strukture\\adapter\\dataset\\datasettester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AA64D21-044F-4E78-B521-2F3E9FC730A0}|Adapter.csproj|solutionrelative:dataset\\datasettester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AA64D21-044F-4E78-B521-2F3E9FC730A0}|Adapter.csproj|d:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\rppoon\\obrasci\\obrasci strukture\\adapter\\dataset\\dataset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AA64D21-044F-4E78-B521-2F3E9FC730A0}|Adapter.csproj|solutionrelative:dataset\\dataset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AA64D21-044F-4E78-B521-2F3E9FC730A0}|Adapter.csproj|d:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\rppoon\\obrasci\\obrasci strukture\\adapter\\dataset\\analyzer3rdparty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AA64D21-044F-4E78-B521-2F3E9FC730A0}|Adapter.csproj|solutionrelative:dataset\\analyzer3rdparty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AA64D21-044F-4E78-B521-2F3E9FC730A0}|Adapter.csproj|d:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\rppoon\\obrasci\\obrasci strukture\\adapter\\dataset\\ianalytics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AA64D21-044F-4E78-B521-2F3E9FC730A0}|Adapter.csproj|solutionrelative:dataset\\ianalytics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AA64D21-044F-4E78-B521-2F3E9FC730A0}|Adapter.csproj|d:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\rppoon\\obrasci\\obrasci strukture\\adapter\\dataset\\file.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7AA64D21-044F-4E78-B521-2F3E9FC730A0}|Adapter.csproj|solutionrelative:dataset\\file.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AA64D21-044F-4E78-B521-2F3E9FC730A0}|Adapter.csproj|d:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\rppoon\\obrasci\\obrasci strukture\\adapter\\dataset\\adapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AA64D21-044F-4E78-B521-2F3E9FC730A0}|Adapter.csproj|solutionrelative:dataset\\adapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Terrorist.cs",
+              "DocumentMoniker": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci strukture\\Adapter\\Enemy\\Terrorist.cs",
+              "RelativeDocumentMoniker": "Enemy\\Terrorist.cs",
+              "ToolTip": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci strukture\\Adapter\\Enemy\\Terrorist.cs",
+              "RelativeToolTip": "Enemy\\Terrorist.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAIA/wBsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T13:30:48.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci strukture\\Adapter\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci strukture\\Adapter\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T13:29:53.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DatasetTester.cs",
+              "DocumentMoniker": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci strukture\\Adapter\\Dataset\\DatasetTester.cs",
+              "RelativeDocumentMoniker": "Dataset\\DatasetTester.cs",
+              "ToolTip": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci strukture\\Adapter\\Dataset\\DatasetTester.cs",
+              "RelativeToolTip": "Dataset\\DatasetTester.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA4wBoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T13:23:12.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "File.csv",
+              "DocumentMoniker": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci strukture\\Adapter\\Dataset\\File.csv",
+              "RelativeDocumentMoniker": "Dataset\\File.csv",
+              "ToolTip": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci strukture\\Adapter\\Dataset\\File.csv",
+              "RelativeToolTip": "Dataset\\File.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-08-18T13:22:17.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Analyzer3rdParty.cs",
+              "DocumentMoniker": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci strukture\\Adapter\\Dataset\\Analyzer3rdParty.cs",
+              "RelativeDocumentMoniker": "Dataset\\Analyzer3rdParty.cs",
+              "ToolTip": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci strukture\\Adapter\\Dataset\\Analyzer3rdParty.cs",
+              "RelativeToolTip": "Dataset\\Analyzer3rdParty.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T12:56:27.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Adapter.cs",
+              "DocumentMoniker": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci strukture\\Adapter\\Dataset\\Adapter.cs",
+              "RelativeDocumentMoniker": "Dataset\\Adapter.cs",
+              "ToolTip": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci strukture\\Adapter\\Dataset\\Adapter.cs",
+              "RelativeToolTip": "Dataset\\Adapter.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwB0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T12:55:32.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAnalytics.cs",
+              "DocumentMoniker": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci strukture\\Adapter\\Dataset\\IAnalytics.cs",
+              "RelativeDocumentMoniker": "Dataset\\IAnalytics.cs",
+              "ToolTip": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci strukture\\Adapter\\Dataset\\IAnalytics.cs",
+              "RelativeToolTip": "Dataset\\IAnalytics.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T12:54:27.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dataset.cs",
+              "DocumentMoniker": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci strukture\\Adapter\\Dataset\\Dataset.cs",
+              "RelativeDocumentMoniker": "Dataset\\Dataset.cs",
+              "ToolTip": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci strukture\\Adapter\\Dataset\\Dataset.cs",
+              "RelativeToolTip": "Dataset\\Dataset.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA/wB8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T12:49:58.037Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci strukture\Proxy\bin\Debug\net8.0\Proxy.exe
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci strukture\Proxy\bin\Debug\net8.0\Proxy.deps.json
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci strukture\Proxy\bin\Debug\net8.0\Proxy.runtimeconfig.json
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci strukture\Proxy\bin\Debug\net8.0\Proxy.dll
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci strukture\Proxy\bin\Debug\net8.0\Proxy.pdb
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci strukture\Proxy\obj\Debug\net8.0\Proxy.GeneratedMSBuildEditorConfig.editorconfig
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci strukture\Proxy\obj\Debug\net8.0\Proxy.AssemblyInfoInputs.cache
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci strukture\Proxy\obj\Debug\net8.0\Proxy.AssemblyInfo.cs
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci strukture\Proxy\obj\Debug\net8.0\Proxy.csproj.CoreCompileInputs.cache
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci strukture\Proxy\obj\Debug\net8.0\Proxy.dll
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci strukture\Proxy\obj\Debug\net8.0\refint\Proxy.dll
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci strukture\Proxy\obj\Debug\net8.0\Proxy.pdb
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci strukture\Proxy\obj\Debug\net8.0\Proxy.genruntimeconfig.cache
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci strukture\Proxy\obj\Debug\net8.0\ref\Proxy.dll

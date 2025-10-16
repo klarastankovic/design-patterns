@@ -1,0 +1,14 @@
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci strukture\Adapter\obj\Debug\net8.0\Adapter.GeneratedMSBuildEditorConfig.editorconfig
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci strukture\Adapter\obj\Debug\net8.0\Adapter.AssemblyInfoInputs.cache
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci strukture\Adapter\obj\Debug\net8.0\Adapter.AssemblyInfo.cs
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci strukture\Adapter\obj\Debug\net8.0\Adapter.csproj.CoreCompileInputs.cache
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci strukture\Adapter\bin\Debug\net8.0\Adapter.exe
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci strukture\Adapter\bin\Debug\net8.0\Adapter.deps.json
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci strukture\Adapter\bin\Debug\net8.0\Adapter.runtimeconfig.json
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci strukture\Adapter\bin\Debug\net8.0\Adapter.dll
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci strukture\Adapter\bin\Debug\net8.0\Adapter.pdb
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci strukture\Adapter\obj\Debug\net8.0\Adapter.dll
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci strukture\Adapter\obj\Debug\net8.0\refint\Adapter.dll
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci strukture\Adapter\obj\Debug\net8.0\Adapter.pdb
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci strukture\Adapter\obj\Debug\net8.0\Adapter.genruntimeconfig.cache
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci strukture\Adapter\obj\Debug\net8.0\ref\Adapter.dll

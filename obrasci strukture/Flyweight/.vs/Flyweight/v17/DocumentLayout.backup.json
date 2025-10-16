@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci strukture\\Flyweight\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58E8E62B-8EE4-4CC4-BE76-7484695C3FCA}|Flyweight.csproj|d:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\rppoon\\obrasci\\obrasci strukture\\flyweight\\trees\\treestester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58E8E62B-8EE4-4CC4-BE76-7484695C3FCA}|Flyweight.csproj|solutionrelative:trees\\treestester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58E8E62B-8EE4-4CC4-BE76-7484695C3FCA}|Flyweight.csproj|d:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\rppoon\\obrasci\\obrasci strukture\\flyweight\\trees\\treefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58E8E62B-8EE4-4CC4-BE76-7484695C3FCA}|Flyweight.csproj|solutionrelative:trees\\treefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58E8E62B-8EE4-4CC4-BE76-7484695C3FCA}|Flyweight.csproj|d:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\rppoon\\obrasci\\obrasci strukture\\flyweight\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58E8E62B-8EE4-4CC4-BE76-7484695C3FCA}|Flyweight.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58E8E62B-8EE4-4CC4-BE76-7484695C3FCA}|Flyweight.csproj|d:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\rppoon\\obrasci\\obrasci strukture\\flyweight\\trees\\forest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58E8E62B-8EE4-4CC4-BE76-7484695C3FCA}|Flyweight.csproj|solutionrelative:trees\\forest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58E8E62B-8EE4-4CC4-BE76-7484695C3FCA}|Flyweight.csproj|d:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\rppoon\\obrasci\\obrasci strukture\\flyweight\\trees\\treespecies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58E8E62B-8EE4-4CC4-BE76-7484695C3FCA}|Flyweight.csproj|solutionrelative:trees\\treespecies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58E8E62B-8EE4-4CC4-BE76-7484695C3FCA}|Flyweight.csproj|d:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\rppoon\\obrasci\\obrasci strukture\\flyweight\\trees\\tree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58E8E62B-8EE4-4CC4-BE76-7484695C3FCA}|Flyweight.csproj|solutionrelative:trees\\tree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci strukture\\Flyweight\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci strukture\\Flyweight\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T22:35:05.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TreesTester.cs",
+              "DocumentMoniker": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci strukture\\Flyweight\\Trees\\TreesTester.cs",
+              "RelativeDocumentMoniker": "Trees\\TreesTester.cs",
+              "ToolTip": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci strukture\\Flyweight\\Trees\\TreesTester.cs",
+              "RelativeToolTip": "Trees\\TreesTester.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T22:31:56.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Forest.cs",
+              "DocumentMoniker": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci strukture\\Flyweight\\Trees\\Forest.cs",
+              "RelativeDocumentMoniker": "Trees\\Forest.cs",
+              "ToolTip": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci strukture\\Flyweight\\Trees\\Forest.cs",
+              "RelativeToolTip": "Trees\\Forest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T22:29:24.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TreeFactory.cs",
+              "DocumentMoniker": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci strukture\\Flyweight\\Trees\\TreeFactory.cs",
+              "RelativeDocumentMoniker": "Trees\\TreeFactory.cs",
+              "ToolTip": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci strukture\\Flyweight\\Trees\\TreeFactory.cs",
+              "RelativeToolTip": "Trees\\TreeFactory.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwBIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T22:26:23.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TreeSpecies.cs",
+              "DocumentMoniker": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci strukture\\Flyweight\\Trees\\TreeSpecies.cs",
+              "RelativeDocumentMoniker": "Trees\\TreeSpecies.cs",
+              "ToolTip": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci strukture\\Flyweight\\Trees\\TreeSpecies.cs",
+              "RelativeToolTip": "Trees\\TreeSpecies.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T22:25:25.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tree.cs",
+              "DocumentMoniker": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci strukture\\Flyweight\\Trees\\Tree.cs",
+              "RelativeDocumentMoniker": "Trees\\Tree.cs",
+              "ToolTip": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci strukture\\Flyweight\\Trees\\Tree.cs",
+              "RelativeToolTip": "Trees\\Tree.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T22:24:37.729Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

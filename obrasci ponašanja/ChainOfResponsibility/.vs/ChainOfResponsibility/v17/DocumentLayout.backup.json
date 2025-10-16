@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci pona\u0161anja\\ChainOfResponsibility\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C67F153-FAB1-46A4-B845-01EA62DB3DB4}|ChainOfResponsibility.csproj|d:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\rppoon\\obrasci\\obrasci pona\u0161anja\\chainofresponsibility\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C67F153-FAB1-46A4-B845-01EA62DB3DB4}|ChainOfResponsibility.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C67F153-FAB1-46A4-B845-01EA62DB3DB4}|ChainOfResponsibility.csproj|d:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\rppoon\\obrasci\\obrasci pona\u0161anja\\chainofresponsibility\\evaluator\\evaluatortester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C67F153-FAB1-46A4-B845-01EA62DB3DB4}|ChainOfResponsibility.csproj|solutionrelative:evaluator\\evaluatortester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C67F153-FAB1-46A4-B845-01EA62DB3DB4}|ChainOfResponsibility.csproj|d:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\rppoon\\obrasci\\obrasci pona\u0161anja\\chainofresponsibility\\evaluator\\reviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C67F153-FAB1-46A4-B845-01EA62DB3DB4}|ChainOfResponsibility.csproj|solutionrelative:evaluator\\reviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C67F153-FAB1-46A4-B845-01EA62DB3DB4}|ChainOfResponsibility.csproj|d:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\rppoon\\obrasci\\obrasci pona\u0161anja\\chainofresponsibility\\evaluator\\editor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C67F153-FAB1-46A4-B845-01EA62DB3DB4}|ChainOfResponsibility.csproj|solutionrelative:evaluator\\editor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C67F153-FAB1-46A4-B845-01EA62DB3DB4}|ChainOfResponsibility.csproj|d:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\rppoon\\obrasci\\obrasci pona\u0161anja\\chainofresponsibility\\evaluator\\evaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C67F153-FAB1-46A4-B845-01EA62DB3DB4}|ChainOfResponsibility.csproj|solutionrelative:evaluator\\evaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C67F153-FAB1-46A4-B845-01EA62DB3DB4}|ChainOfResponsibility.csproj|d:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\rppoon\\obrasci\\obrasci pona\u0161anja\\chainofresponsibility\\evaluator\\ievaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C67F153-FAB1-46A4-B845-01EA62DB3DB4}|ChainOfResponsibility.csproj|solutionrelative:evaluator\\ievaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C67F153-FAB1-46A4-B845-01EA62DB3DB4}|ChainOfResponsibility.csproj|d:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\rppoon\\obrasci\\obrasci pona\u0161anja\\chainofresponsibility\\evaluator\\evaluation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C67F153-FAB1-46A4-B845-01EA62DB3DB4}|ChainOfResponsibility.csproj|solutionrelative:evaluator\\evaluation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C67F153-FAB1-46A4-B845-01EA62DB3DB4}|ChainOfResponsibility.csproj|d:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\rppoon\\obrasci\\obrasci pona\u0161anja\\chainofresponsibility\\evaluator\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C67F153-FAB1-46A4-B845-01EA62DB3DB4}|ChainOfResponsibility.csproj|solutionrelative:evaluator\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci pona\u0161anja\\ChainOfResponsibility\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci pona\u0161anja\\ChainOfResponsibility\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T16:16:30.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EvaluatorTester.cs",
+              "DocumentMoniker": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci pona\u0161anja\\ChainOfResponsibility\\Evaluator\\EvaluatorTester.cs",
+              "RelativeDocumentMoniker": "Evaluator\\EvaluatorTester.cs",
+              "ToolTip": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci pona\u0161anja\\ChainOfResponsibility\\Evaluator\\EvaluatorTester.cs",
+              "RelativeToolTip": "Evaluator\\EvaluatorTester.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T16:11:21.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Reviewer.cs",
+              "DocumentMoniker": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci pona\u0161anja\\ChainOfResponsibility\\Evaluator\\Reviewer.cs",
+              "RelativeDocumentMoniker": "Evaluator\\Reviewer.cs",
+              "ToolTip": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci pona\u0161anja\\ChainOfResponsibility\\Evaluator\\Reviewer.cs",
+              "RelativeToolTip": "Evaluator\\Reviewer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T16:08:49.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Editor.cs",
+              "DocumentMoniker": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci pona\u0161anja\\ChainOfResponsibility\\Evaluator\\Editor.cs",
+              "RelativeDocumentMoniker": "Evaluator\\Editor.cs",
+              "ToolTip": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci pona\u0161anja\\ChainOfResponsibility\\Evaluator\\Editor.cs",
+              "RelativeToolTip": "Evaluator\\Editor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T16:06:05.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Evaluator.cs",
+              "DocumentMoniker": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci pona\u0161anja\\ChainOfResponsibility\\Evaluator\\Evaluator.cs",
+              "RelativeDocumentMoniker": "Evaluator\\Evaluator.cs",
+              "ToolTip": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci pona\u0161anja\\ChainOfResponsibility\\Evaluator\\Evaluator.cs",
+              "RelativeToolTip": "Evaluator\\Evaluator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T16:04:19.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEvaluator.cs",
+              "DocumentMoniker": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci pona\u0161anja\\ChainOfResponsibility\\Evaluator\\IEvaluator.cs",
+              "RelativeDocumentMoniker": "Evaluator\\IEvaluator.cs",
+              "ToolTip": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci pona\u0161anja\\ChainOfResponsibility\\Evaluator\\IEvaluator.cs",
+              "RelativeToolTip": "Evaluator\\IEvaluator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T16:03:35.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Evaluation.cs",
+              "DocumentMoniker": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci pona\u0161anja\\ChainOfResponsibility\\Evaluator\\Evaluation.cs",
+              "RelativeDocumentMoniker": "Evaluator\\Evaluation.cs",
+              "ToolTip": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci pona\u0161anja\\ChainOfResponsibility\\Evaluator\\Evaluation.cs",
+              "RelativeToolTip": "Evaluator\\Evaluation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T16:02:41.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Document.cs",
+              "DocumentMoniker": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci pona\u0161anja\\ChainOfResponsibility\\Evaluator\\Document.cs",
+              "RelativeDocumentMoniker": "Evaluator\\Document.cs",
+              "ToolTip": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci pona\u0161anja\\ChainOfResponsibility\\Evaluator\\Document.cs",
+              "RelativeToolTip": "Evaluator\\Document.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T16:02:01.554Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

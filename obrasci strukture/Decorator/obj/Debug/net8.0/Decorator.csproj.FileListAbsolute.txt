@@ -1,0 +1,14 @@
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci strukture\Decorator\bin\Debug\net8.0\Decorator.exe
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci strukture\Decorator\bin\Debug\net8.0\Decorator.deps.json
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci strukture\Decorator\bin\Debug\net8.0\Decorator.runtimeconfig.json
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci strukture\Decorator\bin\Debug\net8.0\Decorator.dll
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci strukture\Decorator\bin\Debug\net8.0\Decorator.pdb
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci strukture\Decorator\obj\Debug\net8.0\Decorator.GeneratedMSBuildEditorConfig.editorconfig
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci strukture\Decorator\obj\Debug\net8.0\Decorator.AssemblyInfoInputs.cache
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci strukture\Decorator\obj\Debug\net8.0\Decorator.AssemblyInfo.cs
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci strukture\Decorator\obj\Debug\net8.0\Decorator.csproj.CoreCompileInputs.cache
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci strukture\Decorator\obj\Debug\net8.0\Decorator.dll
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci strukture\Decorator\obj\Debug\net8.0\refint\Decorator.dll
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci strukture\Decorator\obj\Debug\net8.0\Decorator.pdb
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci strukture\Decorator\obj\Debug\net8.0\Decorator.genruntimeconfig.cache
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci strukture\Decorator\obj\Debug\net8.0\ref\Decorator.dll

@@ -1,0 +1,14 @@
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci ponašanja\Memento\bin\Debug\net8.0\Memento.exe
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci ponašanja\Memento\bin\Debug\net8.0\Memento.deps.json
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci ponašanja\Memento\bin\Debug\net8.0\Memento.runtimeconfig.json
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci ponašanja\Memento\bin\Debug\net8.0\Memento.dll
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci ponašanja\Memento\bin\Debug\net8.0\Memento.pdb
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci ponašanja\Memento\obj\Debug\net8.0\Memento.GeneratedMSBuildEditorConfig.editorconfig
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci ponašanja\Memento\obj\Debug\net8.0\Memento.AssemblyInfoInputs.cache
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci ponašanja\Memento\obj\Debug\net8.0\Memento.AssemblyInfo.cs
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci ponašanja\Memento\obj\Debug\net8.0\Memento.csproj.CoreCompileInputs.cache
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci ponašanja\Memento\obj\Debug\net8.0\Memento.dll
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci ponašanja\Memento\obj\Debug\net8.0\refint\Memento.dll
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci ponašanja\Memento\obj\Debug\net8.0\Memento.pdb
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci ponašanja\Memento\obj\Debug\net8.0\Memento.genruntimeconfig.cache
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci ponašanja\Memento\obj\Debug\net8.0\ref\Memento.dll

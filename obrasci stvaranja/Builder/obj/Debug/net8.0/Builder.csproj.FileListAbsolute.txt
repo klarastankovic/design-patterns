@@ -1,0 +1,14 @@
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci stvaranja\Builder\bin\Debug\net8.0\Builder.exe
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci stvaranja\Builder\bin\Debug\net8.0\Builder.deps.json
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci stvaranja\Builder\bin\Debug\net8.0\Builder.runtimeconfig.json
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci stvaranja\Builder\bin\Debug\net8.0\Builder.dll
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci stvaranja\Builder\bin\Debug\net8.0\Builder.pdb
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci stvaranja\Builder\obj\Debug\net8.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci stvaranja\Builder\obj\Debug\net8.0\Builder.AssemblyInfoInputs.cache
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci stvaranja\Builder\obj\Debug\net8.0\Builder.AssemblyInfo.cs
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci stvaranja\Builder\obj\Debug\net8.0\Builder.csproj.CoreCompileInputs.cache
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci stvaranja\Builder\obj\Debug\net8.0\Builder.dll
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci stvaranja\Builder\obj\Debug\net8.0\refint\Builder.dll
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci stvaranja\Builder\obj\Debug\net8.0\Builder.pdb
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci stvaranja\Builder\obj\Debug\net8.0\Builder.genruntimeconfig.cache
+D:\1 faks\0 predmeti\4 semestar\rppoon\RPPOON\OBRASCI\obrasci stvaranja\Builder\obj\Debug\net8.0\ref\Builder.dll

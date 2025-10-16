@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci pona\u0161anja\\Observer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16B0F6BC-0FF2-4C79-A0F7-ADCF592D6961}|Observer.csproj|d:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\rppoon\\obrasci\\obrasci pona\u0161anja\\observer\\dataprovider\\simplesystemdataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B0F6BC-0FF2-4C79-A0F7-ADCF592D6961}|Observer.csproj|solutionrelative:dataprovider\\simplesystemdataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B0F6BC-0FF2-4C79-A0F7-ADCF592D6961}|Observer.csproj|d:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\rppoon\\obrasci\\obrasci pona\u0161anja\\observer\\dataprovider\\dataprovidertester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B0F6BC-0FF2-4C79-A0F7-ADCF592D6961}|Observer.csproj|solutionrelative:dataprovider\\dataprovidertester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B0F6BC-0FF2-4C79-A0F7-ADCF592D6961}|Observer.csproj|d:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\rppoon\\obrasci\\obrasci pona\u0161anja\\observer\\dataprovider\\systemdataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B0F6BC-0FF2-4C79-A0F7-ADCF592D6961}|Observer.csproj|solutionrelative:dataprovider\\systemdataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B0F6BC-0FF2-4C79-A0F7-ADCF592D6961}|Observer.csproj|d:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\rppoon\\obrasci\\obrasci pona\u0161anja\\observer\\dataprovider\\consolelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B0F6BC-0FF2-4C79-A0F7-ADCF592D6961}|Observer.csproj|solutionrelative:dataprovider\\consolelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B0F6BC-0FF2-4C79-A0F7-ADCF592D6961}|Observer.csproj|d:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\rppoon\\obrasci\\obrasci pona\u0161anja\\observer\\dataprovider\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B0F6BC-0FF2-4C79-A0F7-ADCF592D6961}|Observer.csproj|solutionrelative:dataprovider\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B0F6BC-0FF2-4C79-A0F7-ADCF592D6961}|Observer.csproj|d:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\rppoon\\obrasci\\obrasci pona\u0161anja\\observer\\dataprovider\\filelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B0F6BC-0FF2-4C79-A0F7-ADCF592D6961}|Observer.csproj|solutionrelative:dataprovider\\filelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B0F6BC-0FF2-4C79-A0F7-ADCF592D6961}|Observer.csproj|d:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\rppoon\\obrasci\\obrasci pona\u0161anja\\observer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B0F6BC-0FF2-4C79-A0F7-ADCF592D6961}|Observer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci pona\u0161anja\\Observer\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci pona\u0161anja\\Observer\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T11:07:49.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataProviderTester.cs",
+              "DocumentMoniker": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci pona\u0161anja\\Observer\\DataProvider\\DataProviderTester.cs",
+              "RelativeDocumentMoniker": "DataProvider\\DataProviderTester.cs",
+              "ToolTip": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci pona\u0161anja\\Observer\\DataProvider\\DataProviderTester.cs",
+              "RelativeToolTip": "DataProvider\\DataProviderTester.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T11:07:29.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConsoleLogger.cs",
+              "DocumentMoniker": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci pona\u0161anja\\Observer\\DataProvider\\ConsoleLogger.cs",
+              "RelativeDocumentMoniker": "DataProvider\\ConsoleLogger.cs",
+              "ToolTip": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci pona\u0161anja\\Observer\\DataProvider\\ConsoleLogger.cs",
+              "RelativeToolTip": "DataProvider\\ConsoleLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T11:05:26.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FileLogger.cs",
+              "DocumentMoniker": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci pona\u0161anja\\Observer\\DataProvider\\FileLogger.cs",
+              "RelativeDocumentMoniker": "DataProvider\\FileLogger.cs",
+              "ToolTip": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci pona\u0161anja\\Observer\\DataProvider\\FileLogger.cs",
+              "RelativeToolTip": "DataProvider\\FileLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T11:03:10.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SystemDataProvider.cs",
+              "DocumentMoniker": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci pona\u0161anja\\Observer\\DataProvider\\SystemDataProvider.cs",
+              "RelativeDocumentMoniker": "DataProvider\\SystemDataProvider.cs",
+              "ToolTip": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci pona\u0161anja\\Observer\\DataProvider\\SystemDataProvider.cs",
+              "RelativeToolTip": "DataProvider\\SystemDataProvider.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T10:59:19.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci pona\u0161anja\\Observer\\DataProvider\\Logger.cs",
+              "RelativeDocumentMoniker": "DataProvider\\Logger.cs",
+              "ToolTip": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci pona\u0161anja\\Observer\\DataProvider\\Logger.cs",
+              "RelativeToolTip": "DataProvider\\Logger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T10:58:20.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SimpleSystemDataProvider.cs",
+              "DocumentMoniker": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci pona\u0161anja\\Observer\\DataProvider\\SimpleSystemDataProvider.cs",
+              "RelativeDocumentMoniker": "DataProvider\\SimpleSystemDataProvider.cs",
+              "ToolTip": "D:\\1 faks\\0 predmeti\\4 semestar\\rppoon\\RPPOON\\OBRASCI\\obrasci pona\u0161anja\\Observer\\DataProvider\\SimpleSystemDataProvider.cs",
+              "RelativeToolTip": "DataProvider\\SimpleSystemDataProvider.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwBYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T10:45:33.5Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
